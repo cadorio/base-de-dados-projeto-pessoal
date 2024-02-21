@@ -9,7 +9,6 @@
 |Número|Nome            |
 |:-----|:---------------|
 |a22201793 |André Matos |
-|a22211659 |Pedro Cruz  |
 
 # Tema do trabalho
 
