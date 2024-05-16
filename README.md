@@ -141,4 +141,3 @@ Tabela: Serviços_funcionarios
 
 
 ![Alt Text](https://media.giphy.com/media/WGINHOgktq6IHJjgYR/giphy.gif)
-
